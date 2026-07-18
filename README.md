@@ -121,7 +121,7 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Developed By
 
-Shaik Johnsaida
+MutukuruSailaja
 
 SmartBridge AI & ML Internship Project
 

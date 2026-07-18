@@ -107,7 +107,7 @@ def predict():
         # MODEL PREDICTION
         # ----------------------------------------------------
 
-        prediction = model.predict(features)[0]
+        prediction = m+odel.predict(features)[0]
 
         probability = model.predict_proba(features)
 
