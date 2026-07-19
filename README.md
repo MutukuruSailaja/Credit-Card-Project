@@ -130,3 +130,4 @@ SmartBridge AI & ML Internship Project
 ## 📜 License
 
 This project is developed for educational purposes.
+Updated README on July 2026.
